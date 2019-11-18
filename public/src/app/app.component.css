@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  font-size: 4rem;
+  font-weight: bold;
+  text-align: center;
+  font-family: 'Headland One', serif;
+}
+#container {
+  width: 85rem;
+  height: 50rem;
+  margin: 1rem auto;
+  padding: 2rem;
+  /* border: 1px solid blue; */
+}
+
+body{
+  background: #114357;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #F29492, #114357);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #F29492, #114357); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+root{
+  background: #114357;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #F29492, #114357);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #F29492, #114357); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
